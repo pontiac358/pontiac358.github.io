@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0bf8bd9-5a3f-4493-a20e-5c50abacb412" name="Default" comment="fetch">
-      <change afterPath="$PROJECT_DIR$/precache-manifest.2679ddd04bd0a7b289c3e857475a845e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.b089bf24.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.b089bf24.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/2.c137d7c7.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/2.c137d7c7.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main.0dde4e47.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main.0dde4e47.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/runtime~main.a8a9905a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/runtime~main.a8a9905a.js.map" afterDir="false" />
+    <list default="true" id="d0bf8bd9-5a3f-4493-a20e-5c50abacb412" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/static/js/main.e7b2209f.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.e7b2209f.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.2679ddd04bd0a7b289c3e857475a845e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.2679ddd04bd0a7b289c3e857475a845e.js" beforeDir="false" afterPath="$PROJECT_DIR$/precache-manifest.1ad24c3620b42bd9b48efc0caef707a1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.4f4941c7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.4f4941c7.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.ffa828bb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.ffa828bb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.0dde4e47.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.0dde4e47.chunk.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +25,8 @@
       <file leaf-file-name="2.c137d7c7.chunk.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/2.c137d7c7.chunk.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret column="2097" selection-start-column="2097" selection-end-column="2097" />
+            <state relative-caret-position="285">
+              <caret column="2489" lean-forward="true" selection-start-column="2489" selection-end-column="2489" />
             </state>
           </provider>
         </entry>
@@ -114,7 +105,7 @@
       <updated>1532521925123</updated>
       <workItem from="1532521926665" duration="1104000" />
       <workItem from="1532684501902" duration="455000" />
-      <workItem from="1569168411982" duration="1152000" />
+      <workItem from="1569168411982" duration="1636000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1532562038928</created>
@@ -130,11 +121,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532684613438</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fetch">
+      <created>1569170727714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569170727714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2711000" />
+    <option name="totallyTimeSpent" value="3195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -172,7 +170,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="fetch" />
+    <option name="LAST_COMMIT_MESSAGE" value="fetch" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/main.ffa828bb.js">
@@ -193,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/2.c137d7c7.chunk.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret column="2097" selection-start-column="2097" selection-end-column="2097" />
+        <state relative-caret-position="285">
+          <caret column="2489" lean-forward="true" selection-start-column="2489" selection-end-column="2489" />
         </state>
       </provider>
     </entry>
